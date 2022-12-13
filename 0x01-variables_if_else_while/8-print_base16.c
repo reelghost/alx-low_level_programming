@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - We print base 16 numbers.
+ * main - We print base 16 numbers which are 1-9 and a-f.
  * @void: Empty parameter list for main.
  *
  * Description: Prints all hexadecimals
