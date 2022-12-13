@@ -4,7 +4,7 @@
 
 /**
  * main - Positive or Negative - print sign of random number
- * @void: Empty parameter list for main
+ * @void: Empty parameter list for main.
  *
  * Description: this if/else statement declares the sign (Positive or Negative)
  * of a random number. It also states if the value is zero.
@@ -30,7 +30,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else 
+	else
 	{
 		printf("%d is negative\n", n);
 	}
