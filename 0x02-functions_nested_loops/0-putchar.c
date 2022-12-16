@@ -5,9 +5,8 @@
  *
  * Return: On success return 0
  */
-int main(str b)
+int _putchar(char b)
 {
-	str b = "_putchar";
 	return (write(1, &b, 1));
 }
 
