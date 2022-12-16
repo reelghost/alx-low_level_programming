@@ -5,8 +5,8 @@
  *
  * Return: On success return 0
  */
-int _putchar(char b)
+int _putchar(char c)
 {
-	return (write(1, &b, 1));
+	return (write(1, &c, 1));
 }
 
