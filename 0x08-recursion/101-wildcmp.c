@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <main.h>
+#include "main.h"
 
 int wildcmp(char *s1, char *s2)
 {
